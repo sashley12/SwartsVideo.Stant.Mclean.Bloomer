@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-creatingvideo">
+    <title>How to Create an Instructional Video</title>
+    <shortdesc>Here are some summarized steps on the process of creating an effective instructional video.</shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+            <li>a clear, loud voice</li>
+                <li>a high-quality camera</li> 
+                <li>a high-quality microphone</li>
+                <li>a video editing software</li> 
+                <li>whatever materials are needed to complete your actual task</li> 
+            </ul>
+           </prereq>
+        <context>
+ <p>The following tips should be of aid for anyone trying to create a "how-to" video.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Introduce the task you are demonstrating.</cmd>
+            </step>
+            <step>
+                <cmd>Demonstrate the steps with brevity, and remember the concept that "Actions speak louder than words."</cmd>
+            </step>
+            <step>
+                <cmd>Stay consistent with rhetorical and visual structure.</cmd>
+            </step>
+            <step>
+                <cmd>Test the timing so the audience can easily follow along.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the recording has clear quality regarding both visual and audio
+                    respects.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
