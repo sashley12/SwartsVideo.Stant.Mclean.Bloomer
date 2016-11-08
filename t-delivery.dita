@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-delivery">
+    <title>How to Deliver Your Instrustional Video</title>
+    <shortdesc>If you want to continue to create instructional videos and gather an online following, you will need to take steps to deliver your content.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Materials Needed</p>
+            <ul>
+                <li>A YouTube account</li>
+                <li>Audio and video recording equipment</li>
+                <li>Social Media accounts</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Promote your first instructional video on YouTube and your social media accounts.</cmd>
+            </step>
+            <step>
+                <cmd>Read the feedback given in the YouTube comments of your video. </cmd>
+            </step>
+            <step>
+                <cmd>Listen to your audience, and create the content they request.</cmd>
+            </step>
+            <step>
+                <cmd>Be consisten in making your content.</cmd>
+                <info>Find a day once a week to upload your content, creating a consistent schedule.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
